@@ -1,5 +1,5 @@
-<h1> Hello, Welcome to devops 1 !!! </h1>
-<h1> Hello, Welcome to Devopsacademy2015 !!! </h1>
-<h1> Hello, Welcome to Devopsacademy2015 !!! </h1>
-<h2> Hello, Welcome to Devopsacademy2015 !!! </h2>
+<h1> Linux </h1>
+<h1> Amazon Linux 2 </h1>
+<h1> banking sector </h1>
+<h2> city bank </h2>
 
